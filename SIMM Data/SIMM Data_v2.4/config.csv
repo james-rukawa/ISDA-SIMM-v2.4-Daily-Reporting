@@ -1,0 +1,4 @@
+Risk Type,Corr Same Bucket,Corr Across Bucket,RW,CT,VC
+Equity,Equity Correlations within bucket,Equity Correlation,Equity-Risk Weights_v2.4,Equity Delta concentration Thresholds,Equity VC
+Commodity,Commodity Correlations within bucket,,,,
+Credit Qualifying,,,Credit Qualifying - Risk weights for all vertices_v2.4,,

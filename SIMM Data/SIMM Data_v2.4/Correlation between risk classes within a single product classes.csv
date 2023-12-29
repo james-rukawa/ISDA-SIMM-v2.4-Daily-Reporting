@@ -1,0 +1,7 @@
+﻿Risk Class,Interest Rate,Credit Qualifying,Credit Non-Qualifying,Equity,Commodity,FX
+Interest Rate,,0.32,0.19,0.33,0.41,0.28
+Credit Qualifying,0.32,,0.45,0.69,0.52,0.42
+Credit Non-qualifying,0.19,0.45,,0.48,0.40,0.14
+Equity,0.33,0.69,0.48,,0.52,0.34
+Commodity,0.41,0.52,0.40,0.52,,0.38
+FX,0.28,0.42,0.14,0.34,0.38,

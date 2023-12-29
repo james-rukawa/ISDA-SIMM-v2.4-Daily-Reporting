@@ -1,0 +1,5 @@
+﻿Currency Risk Group,Concentration threshold (USD mm or bp)
+High volatility,22
+"Regular volatility, well-traded",240
+"Regular volatility, less well-traded",44
+Low volatility,120

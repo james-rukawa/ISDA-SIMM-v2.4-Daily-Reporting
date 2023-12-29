@@ -1,0 +1,18 @@
+﻿Bucket,Commodity,Risk Weight
+1,Coal,22
+2,Crude,29
+3,Light Ends,33
+4,Middle Distillates,25
+5,Heavy Distillates,35
+6,North America Natural Gas,24
+7,European Natural Gas,22
+8,North America Power,49
+9,European Power and Carbon,24
+10,Frieght ,53
+11,Base Metals,20
+12,Precious Metals ,21
+13,Grains and Oilseed,13
+14,Softs and Other Agriculturals,15
+15,Livestock and Dairy,13
+16,Other ,53
+17,Indexes,17

@@ -1,0 +1,4 @@
+﻿Buckets,Credit Risk Group,Concentration threshold (USD mm/ bp)
+1,IG(RMBS and CMBS),9.5
+2,HY/Non-rated(RMBS and CMBS),0.50
+residual,Not classified,0.50

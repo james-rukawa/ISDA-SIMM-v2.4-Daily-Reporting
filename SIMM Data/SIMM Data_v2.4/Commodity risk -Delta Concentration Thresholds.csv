@@ -1,0 +1,12 @@
+﻿Bucket,CT bucket,Concentration threshold (USD mm/%)
+1,Coal,310
+2,Crude Oil,2100
+3,Oil Fractions,1700
+4,Natural gas,3200
+5,Power,2700
+6,"Freight, Dry or Wet",52
+7,Base metals,600
+8,Precious Metals,1600
+9,Agricultural,100
+10,Other,52
+11,Indices,4000
