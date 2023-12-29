@@ -2,7 +2,9 @@
 """
 Created on Thu Dec 28 20:06:32 2023
 
-@author: yanh
+@author: James Yan
+
+This is the main function that can be called with customizable date
 """
 
 import argparse
