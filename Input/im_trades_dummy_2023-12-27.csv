@@ -1,0 +1,3 @@
+﻿valuation_date,party_group_name,party_name,cp_group_name,cp_name,trade_id,product_class_cp,trade_date,trade_currency,notional,settlement_type,im_exposure_cp,im_exposure_diff,result_currency
+12/22/2023,My Company,My Company,Toronto Dominion Bank,Toronto Dominion Bank,trade1,Commodity,,USD,500000000,,1234.56,1234.56,CAD
+12/22/2023,My Company,My Company,Toronto Dominion Bank,Toronto Dominion Bank,trade2,RatesFX,,USD,500000000,,12345.67,12345.67,CAD
