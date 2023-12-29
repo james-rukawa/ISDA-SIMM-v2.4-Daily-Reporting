@@ -2,7 +2,9 @@
 """
 Created on Fri Dec 29 00:05:22 2023
 
-@author: yanh
+@author: James Yan
+
+This is the main script. You can specify the date you'd like to run
 """
 
 import json
