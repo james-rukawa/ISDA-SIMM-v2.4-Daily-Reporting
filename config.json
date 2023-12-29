@@ -1,0 +1,16 @@
+{
+	"date": "2023-12-27",
+	"sec_file_name": "im_trades_dummy",
+	"input_file_name": "dummy_sensitivities",
+	"SIMM_version": "v2.4",
+	"prod_Equity": 1,
+	"prod_Credit": 1,
+	"prod_Commodity": 1,
+	"prod_RatesFX": 1,
+	"risktype_IR": 1,
+	"risktype_Credit Qualifying": 1,
+	"risktype_Credit Non-Qualifying": 0,
+	"risktype_Equity": 1,
+	"risktype_FX": 1,
+	"risktype_Commodity": 1
+}
