@@ -11,8 +11,8 @@ The tool can be run either from the script, or using command line arguments "pyt
 In the config json file, you can set up:
 1. The naming convention for input files
 2. SIMM version, for this tool it's "v2.4"
-3. which product you would like to include. According to ISDA, there are a total of 4 products: Equity, Credit, Commodity and RatesFX
-4. which risk type you would like to include. According to ISDA, there are a total of 6 risk types: IR, Credit Qualifying, Credit Non-Qualifying, Equity, Commodity, FX
+3. which product you would like to include. According to ISDA, there are a total of 4 products: Equity, Credit, Commodity and RatesFX. Put "1" besides the product you'd like to include and "0" for those you'd like to skip
+4. which risk type you would like to include. According to ISDA, there are a total of 6 risk types: IR, Credit Qualifying, Credit Non-Qualifying, Equity, Commodity, FX. Put "1" besides the risk type you'd like to include and "0" for those you'd like to skip
 
 The tool will produce a csv file summarizing the hierarchical initial margin results under each counterparty, product and risk type.
 
