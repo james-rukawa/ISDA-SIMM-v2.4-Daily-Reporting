@@ -1,0 +1,7 @@
+CP,Prod,Risk Type,DeltaMargin,VegaMargin,CurvatureMargin,BaseCorrMargin,Margin_Prod
+Bank1,Commodity,Commodity,35802.24,0.0,0.0,0,0.0
+Bank1,Commodity,All Risk Type,0.0,0.0,0.0,0,35802.24
+Bank1,All Product,All Risk Type,0.0,0.0,0.0,0,35802.24
+Bank2,RatesFX,FX,90123.391,0.0,0.0,0,0.0
+Bank2,RatesFX,All Risk Type,0.0,0.0,0.0,0,90123.391
+Bank2,All Product,All Risk Type,0.0,0.0,0.0,0,90123.391
